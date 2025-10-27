@@ -1,1 +1,1 @@
-# devops-portal
+# AI‑For‑DevOps
